@@ -11,4 +11,4 @@
 
 <span style="text-decoration:underline;">Wiring</span>
 
-![Wiring Diagram]("C:\Users\tacom\Pictures\snakegamewiring.PNG")
+![Wiring Diagram](Pictures\snakegamewiring.PNG)
