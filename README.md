@@ -11,4 +11,4 @@
 
 <span style="text-decoration:underline;">Wiring</span>
 
-![Wiring Diagram](Pictures\snakegamewiring.PNG)
+![Wiring Diagram](snakegamewiring.PNG)
